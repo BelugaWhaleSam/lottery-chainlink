@@ -1,0 +1,5 @@
+1. get subID for chainlink VRF
+2. Deploy our smart contract using subID
+3. Register the contract with chainLink VRF and its subID
+4. Register the contract with chainlink Keepers
+5. Run staging test
